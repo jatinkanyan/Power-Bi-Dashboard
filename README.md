@@ -115,7 +115,7 @@ Interact with visuals to explore branch performance, customer trends, and risk p
 
 ✍️ Author
 Jatin Kanyan
-📧 yourJatinkanyan11@gmail.com
+📧 Jatinkanyan11@gmail.com
 🔗 GitHub: 
 
 
